@@ -12,13 +12,15 @@ Lenguajes:
 ![Static Badge](https://img.shields.io/badge/Python-blue)
 ![Static Badge](https://img.shields.io/badge/Java-orange)
 ![Static Badge](https://img.shields.io/badge/C%23-purple)
-![Static Badge](https://img.shields.io/badge/HTML5-red)
 ![Static Badge](https://img.shields.io/badge/Kotlin-green)
+![Static Badge](https://img.shields.io/badge/HTML5-red)
 ![Static Badge](https://img.shields.io/badge/CSS-blue)
 ![Static Badge](https://img.shields.io/badge/Markdown-black)
 
+Base de Datos:
 
-
+![Static Badge](https://img.shields.io/badge/MySQL-blue)
+![Static Badge](https://img.shields.io/badge/MongoDB-green)
 
 <!--
 **JosemaMoreno/josemamoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
