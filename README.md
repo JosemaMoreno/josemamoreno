@@ -13,6 +13,7 @@ Lenguajes:
 ![Static Badge](https://img.shields.io/badge/Java-orange)
 ![Static Badge](https://img.shields.io/badge/C%23-purple)
 ![Static Badge](https://img.shields.io/badge/HTML5-red)
+![Static Badge](https://img.shields.io/badge/Kotlin-green)
 ![Static Badge](https://img.shields.io/badge/CSS-blue)
 ![Static Badge](https://img.shields.io/badge/Markdown-black)
 
