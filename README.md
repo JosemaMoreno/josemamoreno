@@ -11,7 +11,7 @@ Lenguajes:
 
 ![Static Badge](https://img.shields.io/badge/Python-blue)
 ![Static Badge](https://img.shields.io/badge/Java-orange)
-![Static Badge](https://img.shields.io/badge/C%23-purple?link=https://github.com/JosemaMoreno?tab=repositories&q=&type=&language=c%23&sort=)
+![Static Badge](https://img.shields.io/badge/C%23-purple?link=https%3A%2F%2Fgithub.com%2FJosemaMoreno%3Ftab%3Drepositories%26q%3D%26type%3D%26language%3Dc%2523%26sort%3D)
 ![Static Badge](https://img.shields.io/badge/Kotlin-green)
 ![Static Badge](https://img.shields.io/badge/HTML5-red)
 ![Static Badge](https://img.shields.io/badge/CSS-blue)
