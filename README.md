@@ -22,6 +22,13 @@ Base de Datos:
 ![Static Badge](https://img.shields.io/badge/MySQL-blue)
 ![Static Badge](https://img.shields.io/badge/MongoDB-green)
 
+Frameworks:
+
+![Static Badge](https://img.shields.io/badge/Hibernate-orange)
+![Static Badge](https://img.shields.io/badge/.NET-purple)
+![Static Badge](https://img.shields.io/badge/Odoo-blue)
+
+
 <!--
 **JosemaMoreno/josemamoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
